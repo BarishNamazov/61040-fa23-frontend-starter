@@ -1,6 +1,7 @@
 {
   "name": "frontend-starter",
   "version": "0.0.1",
+  "license": "MIT",
   "scripts": {
     "client:dev": "vite",
     "client:build": "vue-tsc -p client/tsconfig.json --noEmit && vite build",
